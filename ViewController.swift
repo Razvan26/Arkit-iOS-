@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ArgumentApp
 //
-//  Created by Boanca Razvan on 12/04/2018.
+//  Created by Arkit simple app on 12/04/2018.
 //  Copyright © 2018 Arkit simple app. All rights reserved.
 //
 
