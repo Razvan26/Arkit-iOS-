@@ -2,7 +2,7 @@
 //  MainViewController.swift
 //  ArgumentApp
 //
-//  Created by Boanca Razvan on 13/04/2018.
+//  Created by arkit simple app on 13/04/2018.
 //  Copyright © 2018 Arkit simple app. All rights reserved.
 //
 
